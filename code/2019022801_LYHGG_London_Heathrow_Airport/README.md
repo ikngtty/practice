@@ -5,5 +5,4 @@ From "Learn You a Haskell for Great Good!".
 *   stack
 
 ## How to run
-1.  `stack ghc -- main`
-2.  `/.main`
+`stack runghc main.hs`
