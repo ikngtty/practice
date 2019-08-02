@@ -5,4 +5,4 @@ From "Learn You a Haskell for Great Good!".
 *   stack
 
 ## How to run
-`stack runghc main.hs`
+`stack runghc main.hs < input.txt`
